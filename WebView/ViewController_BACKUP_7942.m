@@ -24,7 +24,11 @@
     
     //测试一下   Ven_3.0.0
     
+<<<<<<< .merge_file_IQkvSj
+    //branch_1.0.0
+=======
     //main_master
+>>>>>>> .merge_file_FQQRMc
     
     //测试一下   Ven_2.0.0
 
